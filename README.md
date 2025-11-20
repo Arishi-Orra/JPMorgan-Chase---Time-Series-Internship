@@ -1,1 +1,1 @@
-# JPMorgan-Chase Time-Series-Internship
+# JPMorgan-Chase Time Series & Reinforcement Learning Internship
